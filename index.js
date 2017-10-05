@@ -1,10 +1,10 @@
 $(document).ready(function(){
-    $(".punctuation").click(function(){
-        $(".punctuationcontent").slideToggle(500);
+    $(".about").click(function(){
+        $(".aboutcontent").slideToggle(500);
     });
 
-    $(".grammar").click(function(){
-        $(".grammarcontent").slideToggle(500);
+    $(".punctuation").click(function(){
+        $(".punctuationcontent").slideToggle(500);
     });
 
     $(".capital").click(function(){
