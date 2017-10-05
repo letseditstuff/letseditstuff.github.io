@@ -1,6 +1,6 @@
 $(document).ready(function(){
     $(".about").click(function(){
-        $(".aboutcontent").slideToggle(500);
+        $(".aboutcontent").slideToggle(1000);
     });
 
     $(".punctuation").click(function(){
